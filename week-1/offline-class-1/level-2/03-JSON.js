@@ -9,6 +9,8 @@ function jsonMethods(jsonString) {
   let jsonStringified = JSON.stringify(parsedObject);
   console.log("After JSON.stringify():", jsonStringified);
 }
+  // JSON.parse is used to convert string to object.
+  // JSON.stringify is used to convert object to string.
 
 // Example Usage for JSON Methods
 const sampleJSONString =
