@@ -51,6 +51,7 @@ function concatExample(arr1, arr2) {
 concatExample([1, 2, 3], [4, 5, 6]);
 
 // forEach()
+// iterates for each of the arr or elements given before the for each keyword.
 function forEachExample(arr) {
   console.log("Original Array:", arr);
 
